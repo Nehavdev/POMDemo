@@ -22,6 +22,7 @@ public void searchItemTest() {
 	String strTitle= homePage.getHomePageTitle();
 	Assert.assertEquals(strTitle, "Search - Apple");
 	System.out.println("Test1");
+	System.out.println("Phase2");
 	
 }
 
